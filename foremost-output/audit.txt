@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Feb 10 00:26:40 2019
+Invocation: foremost gandcrab.doc 
+Output directory: /Users/ravernkoh/Desktop/MATT/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: gandcrab.doc
+Start: Sun Feb 10 00:26:40 2019
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000009.jpg 	      83 KB 	       4859 	 
+1:	00000000.ole 	     212 KB 	          0 	 
+2:	00000180.zip 	      18 KB 	      92562 	 
+Finish: Sun Feb 10 00:26:40 2019
+
+3 FILES EXTRACTED
+	
+jpg:= 1
+ole:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Feb 10 00:26:40 2019
